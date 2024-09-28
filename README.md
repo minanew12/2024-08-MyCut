@@ -14,10 +14,6 @@
 
 [//]: # (contest-details-open)
 
-## About the Project
-
-MyCut is a contest rewards distribution protocol which allows the set up and management of multiple rewards distributions, allowing authorized claimants 90 days to claim before the manager takes a cut of the remaining pool and the remainder is distributed equally to those who claimed in time!
-
 ### Actors
 
 - Owner/Admin (Trusted) - Is able to create new Pots, close old Pots when the claim period has elapsed and fund Pots
